@@ -1,0 +1,20 @@
+//less
+https://github.com/seyhunak/twitter-bootstrap-rails
+http://twitter.github.com/bootstrap
+
+http://twitter.github.com/bootstrap/less.html(using less)
+
+
+//twitter bootstrap
+https://github.com/twitter/bootstrap/blob/master/less/navbar.less
+
+
+//sass
+http://metaskills.net/2012/02/27/too-less-should-you-be-using-sass
+https://github.com/thomas-mcdonald/bootstrap-sass
+
+
+//simple form with bootstrap
+http://blog.plataformatec.com.br/2012/02/simpleform-2-0-bootstrap-for-you-with-love
+
+http://twitter.github.com/bootstrap/javascript.html(javascript plugins)
